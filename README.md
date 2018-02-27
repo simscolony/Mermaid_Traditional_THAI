@@ -64,17 +64,6 @@ Some other stuff:
  Infobox
 Expansion/Stuff packs required:
 Sims 4
-
+==================================
 Built with Game Version: 1.39.74.10
-
-104 Comments / replies (Who?)
-
-106 Favourited
-
-10,757 Downloads
-
-6,792 Views
-
-
-
-
+====================================
