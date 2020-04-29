@@ -1,17 +1,11 @@
 # Mermaid_Traditional_THAI
-กำลังดำเนินการ
+![Mermaid1](https://i.imgur.com/J3J4Svf.jpg)
 
-Download Mermaids Mod >>http://modthesims.info/download.php?t=607804
-
-![Mermaid1](http://thumbs.modthesims2.com/img/1/0/0/3/7/5/2/2/MTS_Nyx-1749926-MermaidMod.jpg)
-![Mermaid2](http://thumbs.modthesims2.com/img/1/0/0/3/7/5/2/2/MTS_Nyx-1749927-22-02-18_19-38-24.jpg)
-![Mermaid3](http://thumbs.modthesims2.com/img/1/0/0/3/7/5/2/2/MTS_Nyx-1749928-22-02-18_19-51-53.jpg)
-![Mermaid4](http://thumbs.modthesims2.com/img/1/0/0/3/7/5/2/2/MTS_Nyx-1749930-22-02-18_19-57-57.jpg)
-![Mermaid5](http://thumbs.modthesims2.com/img/1/0/0/3/7/5/2/2/MTS_Nyx-1749931-22-02-18_19-53-12.jpg)
-![Mermaid6](http://thumbs.modthesims2.com/img/1/0/0/3/7/5/2/2/MTS_Nyx-1749932-22-02-18_20-03-55.jpg)
-![Mermaid7](http://thumbs.modthesims2.com/img/1/0/0/3/7/5/2/2/MTS_Nyx-1749933-22-02-18_20-07-20.jpg)
+ดาวโหลด MOD Mermaid
+https://github.com/simcolony/Mermaid_Traditional_THAI/raw/master/Nyx_MermaidsModV1.0%5BLASTFIX%5D.rar
 
 
+================================================================================================================
 THE MERMAID INTERACTIONS SHOULDN'T GIVE ANYMORE LE ERRORS (THE STATUE COULD STILL GIVE THEM THOUGH).
 I WILL NOT MAKE ANOTHER FIX, NOW I HAVE TO FOCUS ON OTHER THINGS.
 -------------------------------------
